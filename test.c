@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <math.h>
  
-int main()
+int main(int argc, char *argv[])
 {
     printf("Test d'un bout de code en  C\n");
     return 0;
